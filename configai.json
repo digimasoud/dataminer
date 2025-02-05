@@ -1,0 +1,10 @@
+{
+    "file_path": "out.csv",
+    "bio_column": "bio",
+    "business_phone_column": "Business Phone Number",
+    "category_column": "City",
+    "name_column": "Full Name",
+    "similarity_column": "\u062a\u0634\u0627\u0628\u0647",
+    "batch_size": 20000,
+    "last_processed_index": 26954
+}

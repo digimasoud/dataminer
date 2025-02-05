@@ -1,0 +1,26 @@
+{
+    "input_file": "u.csv",
+    "output_file": "out.csv",
+    "last_processed_index": 30064,
+    "delay": 5,
+    "count": 60,
+    "sessions": [
+        {
+            "session_id": "#48637362325%3AWUjKRLC5BblDIt%3A11%3AAYcB2DkT4n9tQT8OFFtUZm_ZmxY-VhL4_o4cVH-DiQ",
+            "tag": "metisa - Disabled"
+        },
+        {
+            "session_id": "#44024301761%3AqtJWeGDhJHIcag%3A2%3AAYcom24LEeKSuIBk4YumSjdn5a5Y_Hg24H5Ye3F9WQ",
+            "tag": "decor  - Disabled"
+        },
+        {
+            "session_id": "#7069849011%3AOjZN5dJ2hik6aB%3A5%3AAYfywwCpLzCq_7XE6wwW2XD0QLOnsZlh5d8fygvBkQ",
+            "tag": "melk  - Disabled"
+        },
+        {
+            "session_id": "#40179131856%3AaDAcOvyNOmtfYN%3A17%3AAYcrJLdR8h2LLV4KKvyTY2dygH6ckD2yoML9ScjdsA",
+            "tag": "digi - Disabled"
+        }
+    ],
+    "max_active_sessions": 5
+}
